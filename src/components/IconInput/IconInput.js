@@ -27,7 +27,7 @@ const Input = styled.input`
   height: var(--height);
   font-size: var(--font-size);
   border: none;
-  border-bottom: var(--vorder-thickness) solid ${COLORS.black};
+  border-bottom: var(--border-thickness) solid ${COLORS.black};
   color: inherit;
   font-weight: 700;
   padding-left: var(--height);
